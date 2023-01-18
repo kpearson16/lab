@@ -1,0 +1,35 @@
+body{
+    max-width: 1024px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(227, 224, 215);
+    margin-left: 7vw;
+    position: relative;
+
+}
+.title{
+    color: rgb(2, 65, 43);
+}
+.description{
+    text-transform: capitalize;
+    font-weight: 400;
+}
+.details{
+    font-weight: 200;
+    font-size: smaller;
+}
+img{
+    border: solid mediumseagreen;
+    border-radius: 14px;
+    margin: auto;
+    height: 400px;
+    width: 600px;
+}
+.IngredientsList{
+    text-align: center;
+}
+.ingredients{
+    color: rgb(2, 65, 43);
+}
+h3{
+    color: rgb(2, 65, 43); 
+}
